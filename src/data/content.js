@@ -7,7 +7,7 @@ export const profile = {
   name: "Srigayathri M",
   initials: "SM",
   degree: "B.Tech — Artificial Intelligence & Data Science",
-  headline: "AI/ML & GenAI Developer",
+  headline: "AI/ML & GenAI Engineer",
   tagline:
     "Building intelligent applications with machine learning, generative AI and data-driven technologies.",
   email: "srigayathrimurugan.mani@gmail.com",
